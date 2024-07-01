@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "123908719816",
+    "project_id": "websocketapp-8cad1",
+    "storage_bucket": "websocketapp-8cad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123908719816:android:ceb21b75d49836049551fd",
+        "android_client_info": {
+          "package_name": "com.example.websocketapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6NQ3zZz1OwUCbd_n_26mseAMCkTdXpRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123908719816:android:104c387398f8b0479551fd",
+        "android_client_info": {
+          "package_name": "com.example.websocketayna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6NQ3zZz1OwUCbd_n_26mseAMCkTdXpRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
